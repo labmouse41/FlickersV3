@@ -1,2 +1,5 @@
 Content/* filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 Content filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 1fbc133b2fe4a3f67f6ff3749482e1676632c9f1
