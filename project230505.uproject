@@ -19,6 +19,11 @@
 			"Name": "Prismatiscape",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/28e700a562a941978b2f3d46df591e05"
+		},
+		{
+			"Name": "AdvancedFlockSystem",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4e0c3b65a03046a290403b326dbb3428"
 		}
 	]
 }
