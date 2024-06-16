@@ -37,6 +37,13 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "TextureGraph",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
